@@ -1,0 +1,7 @@
+print("Hello")
+Var1 = input("Zahl1: ")
+print(Var1)
+Var2 = input("Zahl2: ")
+print(Var2)
+Summe = float(Var1) + float(Var2)
+print(Summe)
